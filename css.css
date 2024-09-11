@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+}
+p1 {
+    colour: black;
+}
+ 
+.my-container1 {
+    height: 30vh;
+    background-color:darksalmon;
+    text-align: center;
+}
+.my-container2 {
+    height: 30vh;
+    background-color:#16dbb4;
+    text-align: center;
+}
+.my-container3 {
+    height: 30vh;
+    background-color:#e39fe2;
+    text-align: center;
+}
